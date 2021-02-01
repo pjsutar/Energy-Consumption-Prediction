@@ -1,0 +1,18 @@
+1. Create new environment
+2. Reading the data
+3. Data structure
+	- null values
+	- numerical distribution
+4. Identified values
+5. Dealing with Outliers
+6. Add features and treat them
+	- appliances energy load by hour, day, week and month
+	- night < day
+	- weekends < weekdays
+
+	Exceptions
+	- correlation: temp./hum. and energy load
+7. Process and examine new features
+8. Identify the linear relationship
+9. Train the model on mur data
+10. Model evaluation and selection
